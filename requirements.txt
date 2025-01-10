@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-generativeai
+PyPDF2
+python-dotenv
+fpdf
+python-multipart
+youtube-transcript-api
+flask
+flask-cors
